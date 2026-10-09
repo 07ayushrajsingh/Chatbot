@@ -1,0 +1,13 @@
+# virtual environment
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# secrets
+.env
+
+# user data and generated stores
+uploads/
+chroma_store/

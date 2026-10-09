@@ -1,0 +1,15 @@
+flask
+flask-cors
+python-dotenv
+werkzeug
+pymongo
+chromadb
+langchain
+langchain-core
+langchain-text-splitters
+fastembed
+openai
+pypdf
+pytesseract
+pillow
+python-docx
